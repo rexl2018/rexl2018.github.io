@@ -1,8 +1,8 @@
 {
     "cmd": "selfplay",
-    "hash": "c0000001",
+    "hash": "c0000000",
     "required_client_version": "15",
-    "leelaz_version": "0.13",
+    "leelaz_version": "0.15",
     "options": {
         "playouts": "0",
         "visits": "801",
