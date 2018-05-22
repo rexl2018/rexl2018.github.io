@@ -1,13 +1,13 @@
 {
     "cmd": "selfplay",
-    "hash": "c0000001",
+    "hash": "c0000002",
     "required_client_version": "15",
     "leelaz_version": "0.14",
     "options": {
         "playouts": "0",
-        "visits": "801",
-        "resignation_percent": "5",
+        "visits": "3201",
+        "resignation_percent": "10",
         "noise": "true",
-        "randomcnt": "30"
+        "randomcnt": "200"
     }
 }
