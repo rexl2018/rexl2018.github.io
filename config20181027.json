@@ -6,7 +6,7 @@
     "options": {
         "playouts": "0",
         "visits": "401",
-        "resignation_percent": "0",
+        "resignation_percent": "1",
         "noise": "true",
         "randomcnt": "40"
     }
